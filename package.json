@@ -1,0 +1,22 @@
+{
+  "name": "projeto-pet-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Nicolas Frantz",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^26.1.0"
+  }
+}

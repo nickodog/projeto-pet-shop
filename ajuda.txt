@@ -1,0 +1,9 @@
+# AJUDA #
+
+A interface é toda funcional no local, todas as páginas possuem header e footer para navegação fácil. Todas as páginas funcionam em qualquer tela.
+O botão de "Pesquisar" leva para uma página-conceito que mostra como se alguém tivesse escrito a palavra ''Ração'', e mostra o item Ração Seca.
+a opção "Minha Conta" leva para uma página de Login / Cadastro.
+Ná página inicial há um carousel navegável.
+Foram usadas informações falsas para criar comentários e para criar as informações da empresa, como número, nomes fictícios, lugares fictícios, etc.
+
+

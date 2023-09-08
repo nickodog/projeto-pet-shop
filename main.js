@@ -7,8 +7,8 @@ function createWindow () {
   const mainWindow = new BrowserWindow({
     resizable : false,
     autoHideMenuBar : true,
-    width: 800,
-    height: 600,
+    width: 1920,
+    height: 1080,
     webPreferences: {
       nodeIntegration : true,
       contextIsolation  : false,
@@ -17,7 +17,7 @@ function createWindow () {
   })
 
   // and load the index.html of the app.
-  mainWindow.loadFile('index.html')
+  mainWindow.loadFile('inicio.html')
 
   // Open the DevTools.
    mainWindow.webContents.openDevTools()
